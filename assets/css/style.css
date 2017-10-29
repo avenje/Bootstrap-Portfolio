@@ -37,13 +37,20 @@ h2 {
 }
 
 @media screen and (max-width: 980px) {
+	#myPic {
+		max-width: 380px;
+	}
 	}
 
 
 @media screen and (max-width: 768px) {
-
+	#myPic {
+		max-width: 280px;
+	}
 	}
 
 @media screen and (max-width: 640px) {
-		
+	#myPic {
+		max-width: 180px;
+	}
 	}
