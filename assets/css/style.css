@@ -17,6 +17,10 @@ body {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+body {
+	padding-top: 70px;
+}
+
 footer {
 	height: 40px;
 	padding-bottom: 10px;
